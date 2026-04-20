@@ -21,7 +21,7 @@
   "llm_settings": {
     "gpt": {
       "provider": "gpt",
-      "api_key": "sk-g8htlwkKoAPwSWcTLWosSHbzhrf85nQ8ntg6kUAQSu9CEAzt",
+      "api_key": "REDACTED",
       "base_url": "https://api.chatanywhere.tech/v1",
       "model": "gpt-4o-mini",
       "temperature": 0.1,
@@ -31,7 +31,7 @@
     },
     "zhipu": {
       "provider": "zhipu",
-      "api_key": "43afddac9f27481c9cddaecc788add9e.k4euT7GTuS9RTgMS",
+      "api_key": "REDACTED",
       "base_url": "https://open.bigmodel.cn/api/paas/v4",
       "model": "glm-4.7",
       "temperature": 0.1,
